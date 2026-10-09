@@ -43,7 +43,7 @@ KeepMeOn is developed in Python and uses:
 
 If a release containing `KeepMeOn.exe` is available:
 
-1. Download the executable from the [Releases](../../dist) section.
+1. Download the executable from the [Releases](../../releases) section.
 2. Run `KeepMeOn.exe`.
 3. Find the KeepMeOn icon in the Windows system tray.
 4. Use **Keep PC awake** to enable or disable the feature.
